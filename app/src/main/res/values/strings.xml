@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BodyRating</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!-- SCREEN TITLES -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="unlock_title">Blokada ekranu</string>
+
+
+    <!-- MAIN ACTIVITY -->
+    <string name="rateGirlsButton">Rate girls</string>
+    <string name="rateGuysButton">Rate guys</string>
+
+    <!-- RATE ACTIVITY -->
+    <string name="nextPerson">Next</string>
+
+
+    <string name="navigation_rest">Inne</string>
+    <string name="navigation_settings">Ustawienia</string>
+
+
+    <!-- COMMUNICATES -->
+    <string name="communicate_rating_saved">Rating has been saved</string>
+
+
+    <!-- TEXTVIEWS -->
+    <string name="text_view_unlock">Podaj kod PIN, aby odblokować ekran aplikacji</string>
+    <string name="text_view_lock">Podaj kod PIN, aby zablokować ekran aplikacji</string>
+
+
+</resources>
